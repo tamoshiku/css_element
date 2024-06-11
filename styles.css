@@ -3,11 +3,21 @@ body {
 }
 .navbar {
   background-color: rgb(132, 132, 229);
-  background: linear-gradient(purple,pink);
+  background: linear-gradient(rgb(215, 166, 215),pink);
   display: flex;
   justify-content: space-between;
   padding-top: 3px;
   padding-left: 3px;
   padding-right: 6px;
   padding-bottom: 6px;
-}
+  }
+  #home{
+    color:yellow;
+  }
+  #outfit{
+    color:blue;
+  }
+  #howto{
+    color:rgb(221, 13, 13);
+  }
+
