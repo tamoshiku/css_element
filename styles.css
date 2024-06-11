@@ -3,6 +3,7 @@ body {
 }
 .navbar {
   background-color: rgb(132, 132, 229);
+  background: linear-gradient(purple,pink);
   display: flex;
   justify-content: space-between;
   padding-top: 3px;
